@@ -1,5 +1,5 @@
 # BookstoreWebsite
-Created a website using HTML5 and CSS based on a local website
+Created a website using HTML5 and CSS based on a local website. This was one of my first independent projects I took upon myself to create.
 
 BooksEnds is a Kailua, HI bookstore. I received permission from the owner to build a website based on her shop. This was created to exercise my HTML and CSS skills and was a fun website to build.
 
